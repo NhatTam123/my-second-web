@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-second-web/static/css/main.8d6a3533.css",
+    "main.js": "/my-second-web/static/js/main.7cec1144.js",
+    "index.html": "/my-second-web/index.html",
+    "main.8d6a3533.css.map": "/my-second-web/static/css/main.8d6a3533.css.map",
+    "main.7cec1144.js.map": "/my-second-web/static/js/main.7cec1144.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d6a3533.css",
+    "static/js/main.7cec1144.js"
+  ]
+}
